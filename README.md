@@ -1,0 +1,1 @@
+I'm a Data Analyst at StudioHawk, where I work closely with the Digital PR team to find, extract, clean, and analyze data to create compelling stories and newsworthy datasets. My role involves leveraging various data sources to build indexes, analyze trends, and provide insights that are used for media pitches and campaigns.
