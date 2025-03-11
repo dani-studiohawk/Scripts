@@ -1,0 +1,23 @@
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore system files
+*.DS_Store
+desktop.ini
+Thumbs.db
+
+# Ignore build and distribution files
+build/
+dist/
+*.egg-info/
+
+# Ignore dependency management files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignore temporary and test files
+testrun.py
+test2.py
